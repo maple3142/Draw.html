@@ -2,6 +2,14 @@ A simple html5 draw tool
 =========================
 *very light*
 
+> **version 1.2**  
+> 
+> * [plainhtml](https://raw.githubusercontent.com/maple3142/Draw.html/master/version/1.2/draw.html)
+> 
+> * [rawgit](https://cdn.rawgit.com/maple3142/Draw.html/master/version/1.2/draw.html)
+> 
+> * [githack](https://rawcdn.githack.com/maple3142/Draw.html/master/version/1.2/draw.html)
+
 > **version 1.1**  
 > 
 > * [plainhtml](https://raw.githubusercontent.com/maple3142/Draw.html/master/version/1.1/draw.html)
